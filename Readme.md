@@ -171,5 +171,5 @@ Hotel Management API/
 ---
 
 ## 👨‍💻 Developer
-**Author:** Ericwin Gonzales
+**Author:** Jenzel G. Zuniga
 **Tech Stack:** Node.js | Express | MongoDB | Postman  
