@@ -166,7 +166,7 @@ Hotel Management API/
 
 ## 🧾 Version
 **API Version:** 1.0.0  
-**Last Updated:** October 17, 2025  
+**Last Updated:** October 20, 2025  
 
 ---
 
